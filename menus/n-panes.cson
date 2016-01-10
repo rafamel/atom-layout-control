@@ -1,0 +1,38 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle n-panes'
+      'command': 'n-panes:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'n-panes'
+      'submenu': [
+        {
+          'label': '1-Pane Layout'
+          'command': '1-pane-layout'
+        },
+        {
+          'label': '2-Pane Layout'
+          'command': '2-pane-layout'
+        },
+        {
+          'label': '3-Pane Layout'
+          'command': '3-pane-layout'
+        },
+        {
+          'label': '4-Pane Layout'
+          'command': '4-pane-layout'
+        },
+        {
+          'label': '5-Pane Layout'
+          'command': '5-pane-layout'
+        }
+      ]
+    ]
+  }
+]
