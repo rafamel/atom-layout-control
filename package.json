@@ -1,7 +1,7 @@
 {
   "name": "n-panes",
   "main": "./lib/n-panes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sublime Text-like n-column layout shortcuts.",
   "keywords": [],
   "activationCommands": {},
