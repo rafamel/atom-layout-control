@@ -1,16 +1,14 @@
 {
   "name": "n-panes",
   "main": "./lib/n-panes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sublime Text-like n-column layout shortcuts.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {},
   "repository": "https://github.com/neurodynamic/atom-n-panes",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
