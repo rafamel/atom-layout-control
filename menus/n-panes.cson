@@ -13,24 +13,32 @@
       'label': 'n-panes'
       'submenu': [
         {
-          'label': '1-Pane Layout'
+          'label': '1 Pane Layout'
           'command': '1-pane-layout'
         },
         {
-          'label': '2-Pane Layout'
+          'label': '2 Columns Layout'
           'command': '2-pane-layout'
         },
         {
-          'label': '3-Pane Layout'
+          'label': '3 Columns Layout'
           'command': '3-pane-layout'
         },
         {
-          'label': '4-Pane Layout'
+          'label': '4 Columns Layout'
           'command': '4-pane-layout'
         },
         {
-          'label': '5-Pane Layout'
-          'command': '5-pane-layout'
+          'label': '2 Rows Layout'
+          'command': '2-rows-layout'
+        },
+        {
+          'label': '3 Rows Layout'
+          'command': '3-rows-layout'
+        },
+        {
+          'label': 'Grid Layout'
+          'command': 'grid-layout'
         }
       ]
     ]

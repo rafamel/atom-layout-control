@@ -14,11 +14,15 @@
   'cmd-alt-2': '2-pane-layout'
   'cmd-alt-3': '3-pane-layout'
   'cmd-alt-4': '4-pane-layout'
-  'cmd-alt-5': '5-pane-layout'
+  'cmd-shift-alt-2': '2-rows-layout'
+  'cmd-shift-alt-3': '3-rows-layout'
+  'cmd-alt-5': 'grid-layout'
 
 '.platform-win32 atom-text-editor, .platform-linux atom-text-editor':
   'ctrl-alt-1': '1-pane-layout'
   'ctrl-alt-2': '2-pane-layout'
   'ctrl-alt-3': '3-pane-layout'
   'ctrl-alt-4': '4-pane-layout'
-  'ctrl-alt-5': '5-pane-layout'
+  'ctrl-shift-alt-2': '2-rows-layout'
+  'ctrl-shift-alt-3': '3-rows-layout'
+  'ctrl-alt-5': 'grid-layout'
