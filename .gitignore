@@ -4,6 +4,7 @@
 # Node, Frameworks, Editors #
 #############################
 node_modules
+npm-debug.log
 
 # Compiled source #
 ###################
