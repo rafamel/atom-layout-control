@@ -1,4 +1,4 @@
-# Atom Layout Control
+# Layout Control
 
 Sublime Text-like column / row / grid layout shortcuts and commands for [Atom](https://atom.io/).
 
