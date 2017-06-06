@@ -1,15 +1,15 @@
-# Layout Control
+# Atom Layout Control
 
-Sublime Text-like columns/rows/grid layout shortcuts and commands for [Atom](https://atom.io/).
+Sublime Text-like column / row / grid layout shortcuts and commands for [Atom](https://atom.io/).
 
-- Use **cmd+alt+\[n\]** (where n is a number between 1 and 4) to set the layout to n columns.
-- Use **cmd+shift+alt+\[n\]** (where n is 2 or 3) for n rows.
-- Use **cmd+alt+5** for a 4 panes grid.
+- Use <kbd>cmd</kbd>+<kbd>alt</kbd>+<kbd>\[n\]</kbd> (where n is a number between 1 and 4) to set the layout to n columns.
+- Use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>\[n\]</kbd> (where n is 2 or 3) for n rows.
+- Use <kbd>cmd</kbd>+<kbd>alt</kbd>+<kbd>5</kbd> for a 4 pane grid.
 
-E.g. cmd+alt+3 will create a 3 columns layout.
+E.g. <kbd>cmd</kbd>+<kbd>alt</kbd>+<kbd>3</kbd> will create a 3 column layout.
 
 https://atom.io/packages/layout-control
 
 ---
 
-Based on [neurodynamic](https://github.com/neurodynamic/atom-n-panes) work.
+Based on [neurodynamic](https://github.com/neurodynamic/atom-n-panes)'s work.
