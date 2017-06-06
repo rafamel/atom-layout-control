@@ -1,0 +1,20 @@
+{
+  ".platform-darwin atom-text-editor": {
+    "cmd-alt-1": "1-pane-layout",
+    "cmd-alt-2": "2-columns-layout",
+    "cmd-alt-3": "3-columns-layout",
+    "cmd-alt-4": "4-columns-layout",
+    "cmd-shift-alt-2": "2-rows-layout",
+    "cmd-shift-alt-3": "3-rows-layout",
+    "cmd-alt-5": "grid-layout"
+  },
+  ".platform-win32 atom-text-editor, .platform-linux atom-text-editor": {
+    "ctrl-alt-1": "1-pane-layout",
+    "ctrl-alt-2": "2-columns-layout",
+    "ctrl-alt-3": "3-columns-layout",
+    "ctrl-alt-4": "4-columns-layout",
+    "ctrl-shift-alt-2": "2-rows-layout",
+    "ctrl-shift-alt-3": "3-rows-layout",
+    "ctrl-alt-5": "grid-layout"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Layout Control",
+          "submenu": [
+            {
+              "label": "1 Pane Layout",
+              "command": "1-pane-layout"
+            },
+            {
+              "label": "2 Columns Layout",
+              "command": "2-columns-layout"
+            },
+            {
+              "label": "3 Columns Layout",
+              "command": "3-columns-layout"
+            },
+            {
+              "label": "4 Columns Layout",
+              "command": "4-columns-layout"
+            },
+            {
+              "label": "2 Rows Layout",
+              "command": "2-rows-layout"
+            },
+            {
+              "label": "3 Rows Layout",
+              "command": "3-rows-layout"
+            },
+            {
+              "label": "Grid Layout",
+              "command": "grid-layout"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

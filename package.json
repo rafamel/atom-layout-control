@@ -1,14 +1,19 @@
 {
-  "name": "n-panes",
-  "main": "./lib/n-panes",
-  "version": "0.1.1",
-  "description": "Sublime Text-like n-column layout shortcuts.",
-  "keywords": [],
-  "activationCommands": {},
-  "repository": "https://github.com/neurodynamic/atom-n-panes",
+  "name": "layout-control",
+  "main": "./lib/layout-control",
+  "version": "0.0.1",
+  "description": "Sublime Text-like columns/rows/grid layout shortcuts and commands.",
+  "keywords": [
+    "layout",
+    "columns",
+    "rows",
+    "panes"
+  ],
+  "repository": "https://github.com/rafamel/atom-layout-control",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
