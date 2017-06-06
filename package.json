@@ -1,7 +1,7 @@
 {
   "name": "layout-control",
   "main": "./lib/layout-control",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sublime Text-like layout shortcuts and commands featuring columns, rows, and grid.",
   "keywords": [
     "layout",
