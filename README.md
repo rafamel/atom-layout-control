@@ -5,11 +5,12 @@
 
 [Layout Control @ Atom Packages](https://atom.io/packages/layout-control)
 
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>alt</kbd> + <kbd>_**n**_</kbd> (where *n* is a number between 1 and 4) to set the layout to *n* **columns**.
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>_**n**_</kbd> (where *n* is 2 or 3) to set the layout to *n* **rows**.
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>alt</kbd> + <kbd>5</kbd> for a 4 pane grid.
+Command | Mac OS | Linux/Windows
+------- | ------ | -------------
+Create __n__ *columns* layout | <kbd>cmd</kbd>+<kbd>alt</kbd>+<kbd>n</kbd> | <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>n</kbd>
+Create __n__ *rows* layout | <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>n</kbd> | <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>n</kbd>
 
-E.g. <kbd>ctrl(⌘)</kbd> + <kbd>alt</kbd> + <kbd>3</kbd> will create a 3 column layout.
+*NOTE*: layouts are limited to a maximum of 4 columns and 3 rows.
 
 ---
 
