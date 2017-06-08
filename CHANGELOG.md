@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to *Layout Control* will be documented in this file.
 
+## [0.1.3] 2017-06-08
+- README: Roll back tables due to lack of rendering @ [Atom Packages](https://atom.io/packages/)
+
 ## [0.1.2] 2017-06-08
 - README: command clarification.
 
