@@ -6,11 +6,14 @@
 [Layout Control @ Atom Packages](https://atom.io/packages/layout-control)
 
 Command | Mac OS | Linux/Windows
-------- | ------ | -------------
-Create __n__ *columns* layout | <kbd>cmd</kbd>+<kbd>alt</kbd>+<kbd>n</kbd> | <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>n</kbd>
-Create __n__ *rows* layout | <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>n</kbd> | <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>n</kbd>
+-|-|-
+Create *n* **columns** layout | <kbd>⌘</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd> | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd>
+Create *n* **rows** layout | <kbd>⌘</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd>
+Create 4 panes **grid** | <kbd>⌘</kbd> + <kbd>alt</kbd> + <kbd>5</kbd> | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>5</kbd>
 
-*NOTE*: layouts are limited to a maximum of 4 columns and 3 rows.
+Layouts are limited to **4 columns and 3 rows.**
+
+E.g. In Mac OS, <kbd>⌘</kbd> + <kbd>alt</kbd> + <kbd>3</kbd> will create a 3 columns layout.
 
 ---
 
