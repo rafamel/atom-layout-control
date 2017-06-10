@@ -1,6 +1,6 @@
 # Layout Control
 
-*Sublime Text-like layout shortcuts and commands featuring columns, rows, and grid for [Atom](https://atom.io/)*
+*[Atom](https://atom.io/) layout manager with Sublime Text-like shortcuts and commands featuring columns, rows, and grid.*
 
 [Layout Control @ Atom Packages](https://atom.io/packages/layout-control)
 
@@ -15,4 +15,3 @@ Examples:
 ---
 
 Based on [neurodynamic](https://github.com/neurodynamic/atom-n-panes)'s work.
-
