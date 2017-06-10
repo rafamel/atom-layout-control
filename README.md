@@ -4,12 +4,18 @@
 
 [Layout Control @ Atom Packages](https://atom.io/packages/layout-control)
 
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>alt</kbd> +  <kbd>__*n*__</kbd>  (where *n* is a number between 1 and 4) to set the layout to *n* **columns**.
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd>  (where *n* is 2 or 3) to set the layout to *n* **rows**.
-- Use <kbd>ctrl(⌘)</kbd> + <kbd>alt</kbd> + <kbd>5</kbd> for a 4 panes grid.
+## Default Keybindings
+
+You can change these in Preferences > Keybindings.
+
+Command | Mac OS | Linux/Windows
+------- | ------ | -------------
+Set the layout to *n* **columns** (between 1 and 4) |<kbd>cmd</kbd> + <kbd>alt</kbd> +  <kbd>__*n*__</kbd> | <kbd>ctrl</kbd> + <kbd>alt</kbd> +  <kbd>__*n*__</kbd> 
+Set the layout to *n* **rows** (2 or 3) | <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>__*n*__</kbd>
+Create a **4 panes grid** | <kbd>cmd</kbd> + <kbd>alt</kbd> + <kbd>5</kbd> | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>5</kbd>
 
 Examples:
-- In **Mac OS**, <kbd>⌘</kbd> + <kbd>alt</kbd> + <kbd>3</kbd> would create a 3 columns layout.
+- In **Mac OS**, <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>3</kbd> would create a 3 rows layout.
 - In **Windows/Linux**, <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>4</kbd> would create a 4 columns layout.
 
 ---
