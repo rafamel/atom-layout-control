@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to *Layout Control* will be documented in this file.
 
-## [0.1.5] 2017-06-09
+## [0.1.5] 2017-06-10
 - README: Back to command clarification using tables
 - Functions to async/await, when appropriate
 - Package description modified
